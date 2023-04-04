@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 554b3530f9927d24899b450f3a43d773, type: 3}
+  m_Name: SkinDarkMode
+  m_EditorClassIdentifier: 
+  m_UIColor: {r: 0.9, g: 0.3, b: 0.15, a: 1}
+  m_TopBarTextColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 0.9882353}
+  m_TextColor: {r: 1, g: 1, b: 1, a: 1}
+  m_ButtonTextColor: {r: 1, g: 1, b: 1, a: 1}
+  m_ButtonBackgroundColor: {r: 1, g: 1, b: 1, a: 0}
+  m_ButtonOutlineColor: {r: 0.9, g: 0.3, b: 0.15, a: 1}
+  m_DisabledButtonTextColor: {r: 1, g: 1, b: 1, a: 0.5}
+  m_DisabledButtonBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  m_DisabledButtonOutlineColor: {r: 0.9, g: 0.3, b: 0.15, a: 0.5}
+  m_ToggleEnabledColor: {r: 0.9, g: 0.3, b: 0.15, a: 1}
+  m_ToggleDisabledColor: {r: 0, g: 0, b: 0, a: 1}
+  m_ToggleCursorColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_DropdownBackgroundColor: {r: 0.20000002, g: 0.20000002, b: 0.20000002, a: 1}
+  m_DropdownCheckmarkColor: {r: 0.9, g: 0.3, b: 0.15, a: 1}
+  m_DropdownHoverColor: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 1}
+  m_DropdownTextColor: {r: 1, g: 1, b: 1, a: 1}
+  m_SeparatorColor: {r: 0.30980393, g: 0.30980393, b: 0.30980393, a: 1}
